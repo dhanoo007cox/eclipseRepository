@@ -11,6 +11,7 @@ public class GitHubTestClass {
 		a.display();
 		
 		System.out.println("Test 1");
+		System.out.println("Test 2");
 		
 	}
 
