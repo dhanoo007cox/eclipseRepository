@@ -10,6 +10,8 @@ public class GitHubTestClass {
 		B();
 		a.display();
 		
+		System.out.println("Test 1");
+		
 	}
 
 }
