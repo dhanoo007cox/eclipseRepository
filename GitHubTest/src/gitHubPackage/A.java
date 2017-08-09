@@ -11,7 +11,6 @@ public class A {
 	public void m1(){
 		System.out.println("This is method m1. And array contains:");
 		int sum = 0;
-		
 		for (int a : data) {
 			System.out.print( a + " ");
 			sum += a;
