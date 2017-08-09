@@ -7,7 +7,7 @@ public class A {
 	}
 	
 	public void m1(){
-		System.out.println("This is method m1... And array contains:");
+		System.out.println("This is method m1... And arrrray contains:");
 		for (int a : data) {
 			
 			System.out.print( a + " ");
